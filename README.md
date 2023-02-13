@@ -94,10 +94,9 @@ We will perform a mutation on one of the two parameter, applying a random mutati
 ### Tournament
 We will get the maximum fitness between two Individuals
 
-### Evolution
-Individual(genome=[0.12077208930524375, 0.47262121794293277], fitness=0.677)
-
 ### Evolved Rules
+
+Individual(genome=[0.12077208930524375, 0.47262121794293277], fitness=0.677) final best 
 
 
 

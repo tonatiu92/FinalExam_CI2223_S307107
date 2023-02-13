@@ -366,11 +366,7 @@ class RuleBased(quarto.Player):
         We already think the case of three pieces sharing a common attribute with the completing method
         Here we will try to find when 2 pieces are alignated
         
-        @returns: tuple [int, int]
-        
-        
-        IMPROVEMENT: WE CAN IMPROVE THE RULE BY CALCULATING THE NUMBER OF OCCURENCES OF EACH POSITION AND GIVE BONUS TO WHICH ARE CONNECTED TO MORE THAN 1 POINT
-        
+        @returns: tuple [int, int] 
         """
         selected_piece = self.get_game().get_selected_piece()
         horizontal, vertical, diagonal = self.alignement(board_copy, selected_piece, defense)
