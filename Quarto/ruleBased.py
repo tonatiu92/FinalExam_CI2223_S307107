@@ -5,6 +5,10 @@ import ast
 from collections import defaultdict
 
 class RuleBased(quarto.Player):
+    
+    """
+    Class of the final agent. You can 
+    """
     def __init__(self, quarto: quarto.Quarto,params1: float = 0.12077208930524375, params2: float = 0.47262121794293277) -> None:
         super().__init__(quarto)
         self.params1 = params1
