@@ -1,5 +1,5 @@
 # The Quarto Game
-
+s-307107 Thomas Osorio
 ## The Rules
 1. The game is played on a 4x4 grid, with 16 pieces that each have four attributes: shape (square or circle), height (tall or short), color (red or blue), an solidity (solid or hollow)
 2. At the start of the game, all 16 pieces are placed in a bag or box.
